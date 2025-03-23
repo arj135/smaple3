@@ -1,0 +1,9 @@
+docker container logs containierId
+dcoker container ps -to check the container status
+docker container inspect
+curl,wget commands
+Windows Machines we can create the Linux and windows containers but Linux we can create only linux containers
+docker container exec -ti deomo bash
+exit or cntlr+d come out from the container
+docker cotaner stop demo- to stop container
+docker container pa -a
